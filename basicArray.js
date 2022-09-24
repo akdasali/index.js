@@ -12,3 +12,7 @@ console.log("Town's name are: " +town);
 let arry=["valobasa","mon","kharap","bhalomon"];
 let chek=arry.indexOf('valobasa');
 console.log(chek);
+// console.log(arry[3]);
+let findOut=arry[2];
+console.log(findOut);
+
